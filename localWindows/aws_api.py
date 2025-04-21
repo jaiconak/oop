@@ -15,6 +15,6 @@ for traverse in instanceInfo.get('Reservations', []):
         infoList.append(instanceTag)
 
     # print ('***********************************************')
-    # print(traverse["Instances"][0]['InstanceId']['Tags']) #Just kept filtering.. we wanted items in Instances.. then go inside the list of instances.... then value of InstanceId
+    ## print(traverse["Instances"][0]['InstanceId']['Tags']) #Just kept filtering.. we wanted items in Instances.. then go inside the list of instances.... then value of InstanceId
 
 print (infoList)
