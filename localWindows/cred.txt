@@ -1,0 +1,3 @@
+  user = 'devops'
+    pw = 'devops'
+    url = 'http://3.235.129.19:8080/'
