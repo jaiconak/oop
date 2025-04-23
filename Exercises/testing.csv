@@ -1,0 +1,9 @@
+name,url,color
+ansible-playbook,http://3.210.203.254:8080/job/ansible-playbook/,blue
+first-job,http://3.210.203.254:8080/job/first-job/,blue
+jenkins-pipeline,http://3.210.203.254:8080/job/jenkins-pipeline/,blue
+parameter-pipeline,http://3.210.203.254:8080/job/parameter-pipeline/,blue
+patching-job,http://3.210.203.254:8080/job/patching-job/,blue
+pet-clinic,http://3.210.203.254:8080/job/pet-clinic/,blue
+pipelineTest,http://3.210.203.254:8080/job/pipelineTest/,blue
+secondAttempt,http://3.210.203.254:8080/job/secondAttempt/,aborted

@@ -1,0 +1,7 @@
+python-jenkins
+requests
+boto3
+boto3-stubs[full]
+mypy-boto3-ec2
+psutil
+selenium
