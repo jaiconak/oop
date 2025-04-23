@@ -26,7 +26,7 @@ def stopInstance(instance_list):
     try:
         ec2.stop_instances(InstanceIds=instance_list)
     except Exception as e:
-        print (f"Error:  {e}")
+        print (f"Error!:  {e}")
 
 def main():
     s = listInstances()
